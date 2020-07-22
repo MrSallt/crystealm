@@ -1,4 +1,13 @@
-# Pokémon Crystal [![Build Status][travis-badge]][travis]
+# Pokémon Crystalealm [![Build Status][travis-badge]][travis]
+
+Pokemon Crystealm est un projet qui part de la désassembléee de Pokémon Crystal pour en faire une version françisée et remasterisée.
+Elle comprendra de nouveaux pokémons, qui remplaceront une grande partie des pokémons présents, de nouvelles attaques, et possiblement un nouveau fil rouge à respecter. 
+Le conseil des 4 ne sera plus vraiment un conseil des 4 mais plutôt un conseil des 5 ou des 8, pour que la ligue soit vraiment un challenge compliqué dès
+les premiers combats. 
+
+L'objectif est aussi d'avoir un wiki en français complètement traduit qui sera illustré par des vidéos Youtube.
+
+Tout les crédits sont pour toutes les personnes qui ont bossées sur les désassemblée, nottament Rangi42 qui bosse encore en permanence dessus.
 
 This is a disassembly of Pokémon Crystal.
 
