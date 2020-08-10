@@ -148,86 +148,69 @@ AzaleaGymStatue:
 	jumpstd GymStatue2Script
 
 BugsyText_INeverLose:
-	text "I'm BUGSY!"
-	line "I never lose when"
+	text "Salut..."
+	line "Je suis ARAN..."
 
-	para "it comes to bug"
-	line "#MON."
+	para "Tu sais ce que"
+	line "j'aime ?..."
 
-	para "My research is"
-	line "going to make me"
+	para "Les Araignees..."
 
-	para "the authority on"
-	line "bug #MON!"
-
-	para "Let me demonstrate"
-	line "what I've learned"
-	cont "from my studies."
+	para "N'aie pas peur !"
+	line "ca ne sera pas"
+	cont "long..."
+	
+	para "Bloqué dans ma"
+	line "toile tes #MON"
+	cont "vont mordre la"
+	cont "poussière !"
 	done
 
 BugsyText_ResearchIncomplete:
-	text "Whoa, amazing!"
-	line "You're an expert"
-	cont "on #MON!"
+	text "Oh. Mince."
+	line "T'es un malin"
+	cont "toi!"
 
-	para "My research isn't"
-	line "complete yet."
+	para "Ma toile n'etait"
+	line "pas assez solide"
 
-	para "OK, you win. Take"
-	line "this BADGE."
+	para "OK, t'as gagne"
+	line "prend ce BADGE."
 	done
 
 Text_ReceivedHiveBadge:
-	text "<PLAYER> received"
-	line "HIVEBADGE."
+	text "<PLAYER> recois"
+	line "le BADGE HIVE."
 	done
 
 BugsyText_HiveBadgeSpeech:
-	text "Do you know the"
-	line "benefits of HIVE-"
-	cont "BADGE?"
+	text "Le BADGE HIVE"
+	line "te permet d'avoir"
+	cont "des #MON de"
+	cont "max LV30"
 
-	para "If you have it,"
-	line "#MON up to L30"
+	para "Tu pourras"
+	line "utiliser CUT"
+	cont "si ca te chante"
 
-	para "will obey you,"
-	line "even traded ones."
-
-	para "#MON that know"
-	line "CUT will be able"
-
-	para "to use it outside"
-	line "of battle too."
-
-	para "Here, I also want"
-	line "you to have this."
+	para "Prend ca aussi"
 	done
 
 BugsyText_FuryCutterSpeech:
-	text "TM49 contains"
+	text "TM49 contiens"
 	line "FURY CUTTER."
 
-	para "If you don't miss,"
-	line "it gets stronger"
-	cont "every turn."
-
-	para "The longer your"
-	line "battle goes, the"
-	cont "better it gets."
-
-	para "Isn't that great?"
-	line "I discovered it!"
+	para "Si tu te loupes"
+	line "pas, ca devient"
+	cont "de plus en plus"
+	cont "fort"
 	done
 
 BugsyText_BugMonsAreDeep:
-	text "Bug #MON are"
-	line "deep. There are"
-
-	para "many mysteries to"
-	line "be explored."
-
-	para "Study your favor-"
-	line "ites thoroughly."
+	text "J'espere que tu"
+	line "aimes les"
+	cont "arraignees"
+	cont "maintenant..."
 	done
 
 BugCatcherBennySeenText:
@@ -328,7 +311,7 @@ TwinsAmyandmay2AfterBattleText:
 AzaleaGymGuideText:
 	text "Yo, challenger!"
 
-	para "BUGSY's young, but"
+	para "ARAN's young, but"
 	line "his knowledge of"
 
 	para "bug #MON is for"
