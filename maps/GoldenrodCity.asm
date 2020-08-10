@@ -431,12 +431,12 @@ GoldenrodDeptStoreSignText:
 	done
 
 GoldenrodGymSignText:
-	text "GOLDENROD CITY"
-	line "#MON GYM"
-	cont "LEADER: WHITNEY"
+	text "ARENE de"
+	line "GOLDENROD CITY"
+	cont "LEADER: LOUISE"
 
-	para "The Incredibly"
-	line "Pretty Girl!"
+	para "La Normie"
+	line "Frenchy!"
 	done
 
 GoldenrodCitySignText:
