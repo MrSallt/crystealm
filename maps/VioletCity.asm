@@ -226,7 +226,7 @@ VioletCitySuperNerdText:
 	done
 
 VioletCityGrampsText:
-	text "FALKNER, from the"
+	text "ALI, from the"
 	line "VIOLET #MON"
 
 	para "GYM, is a fine"
@@ -256,12 +256,12 @@ VioletCitySignText:
 	done
 
 VioletGymSignText:
-	text "VIOLET CITY"
-	line "#MON GYM"
-	cont "LEADER: FALKNER"
+	text "ARENE DE"
+	line "VIOLET CITY"
+	cont "LEADER: ALI"
 
-	para "The Elegant Master"
-	line "of Flying #MON"
+	para "ALI et ses 1000"
+	line "#MON volants!"
 	done
 
 SproutTowerSignText:
