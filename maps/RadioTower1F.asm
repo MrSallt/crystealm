@@ -351,7 +351,7 @@ RadioTower1FRadioCardWomanQuestion4Text:
 	text "So far so good!"
 	line "Question 4:"
 
-	para "Is FALKNER the"
+	para "Is ALI the"
 	line "VIOLET GYM LEADER"
 
 	para "who uses bird"
