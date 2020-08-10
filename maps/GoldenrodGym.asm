@@ -183,29 +183,29 @@ BridgetWalksAwayMovement:
 	step_end
 
 WhitneyBeforeText:
-	text "Hi! I'm WHITNEY!"
+	text "Bonjour ;P"
+	line "Je suis LOUISE"
 
-	para "Everyone was into"
-	line "#MON, so I got"
-	cont "into it too!"
+	para "Tu aimes les"
+	line "croissants ?"
+	cont "..."
 
-	para "#MON are"
-	line "super-cute!"
-
-	para "You want to bat-"
-	line "tle? I'm warning"
-	cont "you--I'm good!"
+	para "Moi j'ADORE ca"
+	
+	para "AH ? Tu veux te"
+	line "battre ? Ok."
+	cont "No Problem"
 	done
 
 WhitneyShouldntBeSoSeriousText:
-	text "Sob…"
+	text "*Hic*.."
 
-	para "…Waaaaaaah!"
-	line "You're mean!"
+	para "OUIIIIIIN!"
+	line "J'te deteste!"
 
-	para "You shouldn't be"
-	line "so serious! You…"
-	cont "you child, you!"
+	para "J'comprend pas"
+	line "tu devrai pas"
+	cont "etre si fort!"
 	done
 
 WhitneyYouMeanieText:
@@ -213,37 +213,34 @@ WhitneyYouMeanieText:
 
 	para "Waaaaah!"
 
-	para "…Snivel, hic…"
-	line "…You meanie!"
+	para "Snif, snif"
+	line "Degage!"
 	done
 
 WhitneyWhatDoYouWantText:
 	text "…Sniff…"
 
-	para "What? What do you"
-	line "want? A BADGE?"
+	para "Kestuveu !"
+	line "un BADGE?"
 
-	para "Oh, right."
-	line "I forgot. Here's"
-	cont "PLAINBADGE."
+	para "Ah, oui c'est."
+	line "vrai. Voici le"
+	cont "BADGE PLAIN."
 	done
 
 PlayerReceivedPlainBadgeText:
-	text "<PLAYER> received"
-	line "PLAINBADGE."
+	text "<PLAYER> recois"
+	line "le BADGE PLAIN."
 	done
 
 WhitneyPlainBadgeText:
-	text "PLAINBADGE lets"
-	line "your #MON use"
+	text "Il augmente"
+	line "la vitesse de"
+	cont "tes #MON"
 
-	para "STRENGTH outside"
-	line "of battle."
-
-	para "It also boosts"
-	line "your #MON's"
-	cont "SPEED."
-
+	para "Tu peux utiliser"
+	line "STRENGHT aussi."
+	
 	para "Oh, you can have"
 	line "this too!"
 	done
