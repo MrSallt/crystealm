@@ -416,13 +416,13 @@ KurtsHouseSignText:
 	done
 
 AzaleaGymSignText:
-	text "AZALEA TOWN"
-	line "#MON GYM"
-	cont "LEADER: BUGSY"
-
-	para "The Walking"
-	line "Bug #MON"
-	cont "Encyclopedia"
+	text "ARENE de"
+	line "AZALEA TOWN"
+	cont "LEADER: ARAN"
+	
+	para "Le collec-"
+	line "tioneur chelou"
+	cont "d'arraignee.
 	done
 
 SlowpokeWellSignText:
