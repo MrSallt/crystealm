@@ -422,7 +422,7 @@ AzaleaGymSignText:
 	
 	para "Le collec-"
 	line "tioneur chelou"
-	cont "d'arraignee.
+	cont "d'arraignee."
 	done
 
 SlowpokeWellSignText:
