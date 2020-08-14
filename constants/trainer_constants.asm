@@ -701,5 +701,7 @@ KRIS EQU __trainer_class__
 
 	trainerclass MYSTICALMAN ; 43
 	const EUSINE
-
+	
+	trainerclass BOSS
+	const MAXIME
 NUM_TRAINER_CLASSES EQU __trainer_class__
