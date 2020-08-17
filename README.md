@@ -9,6 +9,15 @@ L'objectif est aussi d'avoir un wiki en français complètement traduit qui sera
 
 Tout les crédits sont pour toutes les personnes qui ont bossées sur les désassemblée, nottament Rangi42 qui bosse encore en permanence dessus.
 
+Pour ce qui est de l'histoire du jeu elle est suceptible d'évoluer au fil du temps et des découvertes que je ferai. Pour l'instant voilà la ligne rouge.
+
+L'histoire se passe peu après la victoire de Gold
+      L'histoire commence à bourg geon
+      On demande au héros d'aller voir M.Pokemon
+      Le héros pars sur la route 29 et ne peut pas capturer de pokémon
+      Le héros arrive à la ville griotte et doit monter pour aller à la maison du M.Pokémon et récupérer son Pokédex.
+      Sur la route 30 il n'y a pas de dresseurs qui combattent 
+
 This is a disassembly of Pokémon Crystal.
 
 It builds the following ROMs:
