@@ -13,10 +13,17 @@ Pour ce qui est de l'histoire du jeu elle est suceptible d'évoluer au fil du te
 
 L'histoire se passe peu après la victoire de Gold
       L'histoire commence à bourg geon
+      Le joueur habite à bourg geon dans une nouvelle maison.
       On demande au héros d'aller voir M.Pokemon
-      Le héros pars sur la route 29 et ne peut pas capturer de pokémon
+      Le héros pars sur la route 29 et ne peut pas capturer de pokémon.
+      Sur la route, il rencontre son Rival qui semble chercher quelque chose.
       Le héros arrive à la ville griotte et doit monter pour aller à la maison du M.Pokémon et récupérer son Pokédex.
-      Sur la route 30 il n'y a pas de dresseurs qui combattent 
+      Une maison est apparue dans la ville griotte, c'est celle de son rival.
+      Sur la route 30 il n'y a pas de dresseurs qui combattent juste des arbustes qui empêchent le dresseur d'aller plus loin.
+      Lorsque le dresseur récupère son Pokédex, Orme lui dit de revenir très vite au laboratoire.
+      Il y reviens et quand orme voit qu'il a le pokédex on lui explique qu'il                        
+      Il repasse donc par la ville griotte et doit passer par la route 47 du sud pour rejoindre la route 33.
+      
 
 This is a disassembly of Pokémon Crystal.
 
